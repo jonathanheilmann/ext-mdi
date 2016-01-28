@@ -1,0 +1,113 @@
+.t3-icon-extensions-mdi_places {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/places/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_places-ic_ac_unit_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_places-ic_airport_shuttle_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px 0;
+}
+
+.t3-icon-mdi_places-ic_all_inclusive_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px 0;
+}
+
+.t3-icon-mdi_places-ic_beach_access_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px 0;
+}
+
+.t3-icon-mdi_places-ic_business_center_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -24px;
+}
+
+.t3-icon-mdi_places-ic_casino_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -24px;
+}
+
+.t3-icon-mdi_places-ic_child_care_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -24px;
+}
+
+.t3-icon-mdi_places-ic_child_friendly_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -24px;
+}
+
+.t3-icon-mdi_places-ic_fitness_center_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -48px;
+}
+
+.t3-icon-mdi_places-ic_free_breakfast_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -48px;
+}
+
+.t3-icon-mdi_places-ic_golf_course_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -48px;
+}
+
+.t3-icon-mdi_places-ic_hot_tub_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -48px;
+}
+
+.t3-icon-mdi_places-ic_kitchen_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -72px;
+}
+
+.t3-icon-mdi_places-ic_pool_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -72px;
+}
+
+.t3-icon-mdi_places-ic_room_service_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -72px;
+}
+
+.t3-icon-mdi_places-ic_smoke_free_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -72px;
+}
+
+.t3-icon-mdi_places-ic_smoking_rooms_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px 0;
+}
+
+.t3-icon-mdi_places-ic_spa_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -24px;
+}

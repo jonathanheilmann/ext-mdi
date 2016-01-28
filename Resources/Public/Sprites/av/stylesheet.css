@@ -1,0 +1,443 @@
+.t3-icon-extensions-mdi_av {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/av/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_av-ic_add_to_queue_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_av-ic_airplay_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px 0;
+}
+
+.t3-icon-mdi_av-ic_album_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px 0;
+}
+
+.t3-icon-mdi_av-ic_art_track_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px 0;
+}
+
+.t3-icon-mdi_av-ic_av_timer_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px 0;
+}
+
+.t3-icon-mdi_av-ic_closed_caption_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px 0;
+}
+
+.t3-icon-mdi_av-ic_equalizer_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px 0;
+}
+
+.t3-icon-mdi_av-ic_explicit_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px 0;
+}
+
+.t3-icon-mdi_av-ic_fast_forward_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -24px;
+}
+
+.t3-icon-mdi_av-ic_fast_rewind_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -24px;
+}
+
+.t3-icon-mdi_av-ic_fiber_dvr_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -24px;
+}
+
+.t3-icon-mdi_av-ic_fiber_manual_record_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -24px;
+}
+
+.t3-icon-mdi_av-ic_fiber_new_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -24px;
+}
+
+.t3-icon-mdi_av-ic_fiber_pin_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -24px;
+}
+
+.t3-icon-mdi_av-ic_fiber_smart_record_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -24px;
+}
+
+.t3-icon-mdi_av-ic_forward_10_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -24px;
+}
+
+.t3-icon-mdi_av-ic_forward_30_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -48px;
+}
+
+.t3-icon-mdi_av-ic_forward_5_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -48px;
+}
+
+.t3-icon-mdi_av-ic_games_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -48px;
+}
+
+.t3-icon-mdi_av-ic_hd_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -48px;
+}
+
+.t3-icon-mdi_av-ic_hearing_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -48px;
+}
+
+.t3-icon-mdi_av-ic_high_quality_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -48px;
+}
+
+.t3-icon-mdi_av-ic_library_add_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -48px;
+}
+
+.t3-icon-mdi_av-ic_library_books_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -48px;
+}
+
+.t3-icon-mdi_av-ic_library_music_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -72px;
+}
+
+.t3-icon-mdi_av-ic_loop_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -72px;
+}
+
+.t3-icon-mdi_av-ic_mic_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -72px;
+}
+
+.t3-icon-mdi_av-ic_mic_none_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -72px;
+}
+
+.t3-icon-mdi_av-ic_mic_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -72px;
+}
+
+.t3-icon-mdi_av-ic_movie_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -72px;
+}
+
+.t3-icon-mdi_av-ic_music_video_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -72px;
+}
+
+.t3-icon-mdi_av-ic_new_releases_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -72px;
+}
+
+.t3-icon-mdi_av-ic_not_interested_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -96px;
+}
+
+.t3-icon-mdi_av-ic_pause_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -96px;
+}
+
+.t3-icon-mdi_av-ic_pause_circle_filled_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -96px;
+}
+
+.t3-icon-mdi_av-ic_pause_circle_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -96px;
+}
+
+.t3-icon-mdi_av-ic_play_arrow_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -96px;
+}
+
+.t3-icon-mdi_av-ic_play_circle_filled_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -96px;
+}
+
+.t3-icon-mdi_av-ic_play_circle_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -96px;
+}
+
+.t3-icon-mdi_av-ic_playlist_add_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -96px;
+}
+
+.t3-icon-mdi_av-ic_playlist_add_check_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -120px;
+}
+
+.t3-icon-mdi_av-ic_playlist_play_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -120px;
+}
+
+.t3-icon-mdi_av-ic_queue_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -120px;
+}
+
+.t3-icon-mdi_av-ic_queue_music_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -120px;
+}
+
+.t3-icon-mdi_av-ic_queue_play_next_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -120px;
+}
+
+.t3-icon-mdi_av-ic_radio_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -120px;
+}
+
+.t3-icon-mdi_av-ic_recent_actors_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -120px;
+}
+
+.t3-icon-mdi_av-ic_remove_from_queue_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -120px;
+}
+
+.t3-icon-mdi_av-ic_repeat_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -144px;
+}
+
+.t3-icon-mdi_av-ic_repeat_one_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -144px;
+}
+
+.t3-icon-mdi_av-ic_replay_10_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -144px;
+}
+
+.t3-icon-mdi_av-ic_replay_30_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -144px;
+}
+
+.t3-icon-mdi_av-ic_replay_5_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -144px;
+}
+
+.t3-icon-mdi_av-ic_replay_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -144px;
+}
+
+.t3-icon-mdi_av-ic_shuffle_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -144px;
+}
+
+.t3-icon-mdi_av-ic_skip_next_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -144px;
+}
+
+.t3-icon-mdi_av-ic_skip_previous_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -168px;
+}
+
+.t3-icon-mdi_av-ic_slow_motion_video_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -168px;
+}
+
+.t3-icon-mdi_av-ic_snooze_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -168px;
+}
+
+.t3-icon-mdi_av-ic_sort_by_alpha_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -168px;
+}
+
+.t3-icon-mdi_av-ic_stop_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -168px;
+}
+
+.t3-icon-mdi_av-ic_subscriptions_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -168px;
+}
+
+.t3-icon-mdi_av-ic_subtitles_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -168px;
+}
+
+.t3-icon-mdi_av-ic_surround_sound_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -168px;
+}
+
+.t3-icon-mdi_av-ic_video_library_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px 0;
+}
+
+.t3-icon-mdi_av-ic_videocam_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -24px;
+}
+
+.t3-icon-mdi_av-ic_videocam_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -48px;
+}
+
+.t3-icon-mdi_av-ic_volume_down_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -72px;
+}
+
+.t3-icon-mdi_av-ic_volume_mute_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -96px;
+}
+
+.t3-icon-mdi_av-ic_volume_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -120px;
+}
+
+.t3-icon-mdi_av-ic_volume_up_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -144px;
+}
+
+.t3-icon-mdi_av-ic_web_asset_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -168px;
+}
+
+.t3-icon-mdi_av-ic_web_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -192px;
+}

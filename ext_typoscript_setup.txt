@@ -1,0 +1,10 @@
+module.tx_mdi {
+    persistence {
+        storagePid =
+    }
+    view {
+        templateRootPath = EXT:mdi/Resources/Private/Backend/Templates
+        partialRootPath = EXT:mdi/Resources/Private/Backend/Partials
+        layoutRootPath = EXT:mdi/Resources/Private/Backend/Layouts
+    }
+}

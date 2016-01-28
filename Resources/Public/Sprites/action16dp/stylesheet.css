@@ -1,0 +1,23 @@
+.t3-icon-extensions-mdi_action16dp {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/action16dp/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_action16dp-ic_delete_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_action16dp-ic_visibility_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px 0;
+}
+
+.t3-icon-mdi_action16dp-ic_visibility_off_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -16px;
+}

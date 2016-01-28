@@ -1,0 +1,479 @@
+.t3-icon-extensions-mdi_device {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/device/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_device-ic_access_alarm_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_device-ic_access_alarms_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px 0;
+}
+
+.t3-icon-mdi_device-ic_access_time_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px 0;
+}
+
+.t3-icon-mdi_device-ic_add_alarm_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px 0;
+}
+
+.t3-icon-mdi_device-ic_airplanemode_active_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px 0;
+}
+
+.t3-icon-mdi_device-ic_airplanemode_inactive_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px 0;
+}
+
+.t3-icon-mdi_device-ic_battery_20_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px 0;
+}
+
+.t3-icon-mdi_device-ic_battery_30_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px 0;
+}
+
+.t3-icon-mdi_device-ic_battery_50_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_60_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_80_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_90_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_alert_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_charging_20_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_charging_30_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_charging_50_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -24px;
+}
+
+.t3-icon-mdi_device-ic_battery_charging_60_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -48px;
+}
+
+.t3-icon-mdi_device-ic_battery_charging_80_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -48px;
+}
+
+.t3-icon-mdi_device-ic_battery_charging_90_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -48px;
+}
+
+.t3-icon-mdi_device-ic_battery_charging_full_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -48px;
+}
+
+.t3-icon-mdi_device-ic_battery_full_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -48px;
+}
+
+.t3-icon-mdi_device-ic_battery_std_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -48px;
+}
+
+.t3-icon-mdi_device-ic_battery_unknown_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -48px;
+}
+
+.t3-icon-mdi_device-ic_bluetooth_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -48px;
+}
+
+.t3-icon-mdi_device-ic_bluetooth_connected_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -72px;
+}
+
+.t3-icon-mdi_device-ic_bluetooth_disabled_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -72px;
+}
+
+.t3-icon-mdi_device-ic_bluetooth_searching_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -72px;
+}
+
+.t3-icon-mdi_device-ic_brightness_auto_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -72px;
+}
+
+.t3-icon-mdi_device-ic_brightness_high_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -72px;
+}
+
+.t3-icon-mdi_device-ic_brightness_low_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -72px;
+}
+
+.t3-icon-mdi_device-ic_brightness_medium_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -72px;
+}
+
+.t3-icon-mdi_device-ic_data_usage_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -72px;
+}
+
+.t3-icon-mdi_device-ic_developer_mode_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -96px;
+}
+
+.t3-icon-mdi_device-ic_devices_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -96px;
+}
+
+.t3-icon-mdi_device-ic_dvr_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -96px;
+}
+
+.t3-icon-mdi_device-ic_gps_fixed_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -96px;
+}
+
+.t3-icon-mdi_device-ic_gps_not_fixed_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -96px;
+}
+
+.t3-icon-mdi_device-ic_gps_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -96px;
+}
+
+.t3-icon-mdi_device-ic_graphic_eq_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -96px;
+}
+
+.t3-icon-mdi_device-ic_location_disabled_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -96px;
+}
+
+.t3-icon-mdi_device-ic_location_searching_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -120px;
+}
+
+.t3-icon-mdi_device-ic_network_cell_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -120px;
+}
+
+.t3-icon-mdi_device-ic_network_wifi_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -120px;
+}
+
+.t3-icon-mdi_device-ic_nfc_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -120px;
+}
+
+.t3-icon-mdi_device-ic_screen_lock_landscape_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -120px;
+}
+
+.t3-icon-mdi_device-ic_screen_lock_portrait_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -120px;
+}
+
+.t3-icon-mdi_device-ic_screen_lock_rotation_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -120px;
+}
+
+.t3-icon-mdi_device-ic_screen_rotation_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -120px;
+}
+
+.t3-icon-mdi_device-ic_sd_storage_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -144px;
+}
+
+.t3-icon-mdi_device-ic_settings_system_daydream_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_0_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_1_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_2_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_3_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_4_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_connected_no_internet_0_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_connected_no_internet_1_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_connected_no_internet_2_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_connected_no_internet_3_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_connected_no_internet_4_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_no_sim_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_null_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_cellular_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_0_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_1_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px 0;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_1_bar_lock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -24px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_2_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -48px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_2_bar_lock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -72px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_3_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -96px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_3_bar_lock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -120px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_4_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -144px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_4_bar_lock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -168px;
+}
+
+.t3-icon-mdi_device-ic_signal_wifi_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -192px;
+}
+
+.t3-icon-mdi_device-ic_storage_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -192px;
+}
+
+.t3-icon-mdi_device-ic_usb_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -192px;
+}
+
+.t3-icon-mdi_device-ic_wallpaper_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -192px;
+}
+
+.t3-icon-mdi_device-ic_widgets_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -192px;
+}
+
+.t3-icon-mdi_device-ic_wifi_lock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -192px;
+}
+
+.t3-icon-mdi_device-ic_wifi_tethering_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -192px;
+}

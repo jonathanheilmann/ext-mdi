@@ -1,0 +1,293 @@
+.t3-icon-extensions-mdi_hardware {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/hardware/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_hardware-ic_cast_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_hardware-ic_cast_connected_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px 0;
+}
+
+.t3-icon-mdi_hardware-ic_computer_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px 0;
+}
+
+.t3-icon-mdi_hardware-ic_desktop_mac_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px 0;
+}
+
+.t3-icon-mdi_hardware-ic_desktop_windows_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px 0;
+}
+
+.t3-icon-mdi_hardware-ic_developer_board_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px 0;
+}
+
+.t3-icon-mdi_hardware-ic_device_hub_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -24px;
+}
+
+.t3-icon-mdi_hardware-ic_devices_other_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -24px;
+}
+
+.t3-icon-mdi_hardware-ic_dock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -24px;
+}
+
+.t3-icon-mdi_hardware-ic_gamepad_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -24px;
+}
+
+.t3-icon-mdi_hardware-ic_headset_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -24px;
+}
+
+.t3-icon-mdi_hardware-ic_headset_mic_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -24px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_arrow_down_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -48px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_arrow_left_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -48px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_arrow_right_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -48px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_arrow_up_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -48px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_backspace_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -48px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -48px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_capslock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -72px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_hide_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -72px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_return_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -72px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_tab_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -72px;
+}
+
+.t3-icon-mdi_hardware-ic_keyboard_voice_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -72px;
+}
+
+.t3-icon-mdi_hardware-ic_laptop_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -72px;
+}
+
+.t3-icon-mdi_hardware-ic_laptop_chromebook_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -96px;
+}
+
+.t3-icon-mdi_hardware-ic_laptop_mac_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -96px;
+}
+
+.t3-icon-mdi_hardware-ic_laptop_windows_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -96px;
+}
+
+.t3-icon-mdi_hardware-ic_memory_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -96px;
+}
+
+.t3-icon-mdi_hardware-ic_mouse_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -96px;
+}
+
+.t3-icon-mdi_hardware-ic_phone_android_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -96px;
+}
+
+.t3-icon-mdi_hardware-ic_phone_iphone_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -120px;
+}
+
+.t3-icon-mdi_hardware-ic_phonelink_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -120px;
+}
+
+.t3-icon-mdi_hardware-ic_phonelink_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -120px;
+}
+
+.t3-icon-mdi_hardware-ic_power_input_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -120px;
+}
+
+.t3-icon-mdi_hardware-ic_router_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -120px;
+}
+
+.t3-icon-mdi_hardware-ic_scanner_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -120px;
+}
+
+.t3-icon-mdi_hardware-ic_security_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px 0;
+}
+
+.t3-icon-mdi_hardware-ic_sim_card_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -24px;
+}
+
+.t3-icon-mdi_hardware-ic_smartphone_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -48px;
+}
+
+.t3-icon-mdi_hardware-ic_speaker_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -72px;
+}
+
+.t3-icon-mdi_hardware-ic_speaker_group_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -96px;
+}
+
+.t3-icon-mdi_hardware-ic_tablet_android_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -120px;
+}
+
+.t3-icon-mdi_hardware-ic_tablet_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -144px;
+}
+
+.t3-icon-mdi_hardware-ic_tablet_mac_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -144px;
+}
+
+.t3-icon-mdi_hardware-ic_toys_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -144px;
+}
+
+.t3-icon-mdi_hardware-ic_tv_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -144px;
+}
+
+.t3-icon-mdi_hardware-ic_videogame_asset_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -144px;
+}
+
+.t3-icon-mdi_hardware-ic_watch_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -144px;
+}

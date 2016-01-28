@@ -1,0 +1,371 @@
+.t3-icon-extensions-mdi_editor {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/editor/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_editor-ic_attach_file_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_editor-ic_attach_money_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px 0;
+}
+
+.t3-icon-mdi_editor-ic_border_all_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px 0;
+}
+
+.t3-icon-mdi_editor-ic_border_bottom_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px 0;
+}
+
+.t3-icon-mdi_editor-ic_border_clear_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px 0;
+}
+
+.t3-icon-mdi_editor-ic_border_color_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px 0;
+}
+
+.t3-icon-mdi_editor-ic_border_horizontal_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px 0;
+}
+
+.t3-icon-mdi_editor-ic_border_inner_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -24px;
+}
+
+.t3-icon-mdi_editor-ic_border_left_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -24px;
+}
+
+.t3-icon-mdi_editor-ic_border_outer_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -24px;
+}
+
+.t3-icon-mdi_editor-ic_border_right_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -24px;
+}
+
+.t3-icon-mdi_editor-ic_border_style_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -24px;
+}
+
+.t3-icon-mdi_editor-ic_border_top_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -24px;
+}
+
+.t3-icon-mdi_editor-ic_border_vertical_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -24px;
+}
+
+.t3-icon-mdi_editor-ic_drag_handle_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -48px;
+}
+
+.t3-icon-mdi_editor-ic_format_align_center_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -48px;
+}
+
+.t3-icon-mdi_editor-ic_format_align_justify_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -48px;
+}
+
+.t3-icon-mdi_editor-ic_format_align_left_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -48px;
+}
+
+.t3-icon-mdi_editor-ic_format_align_right_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -48px;
+}
+
+.t3-icon-mdi_editor-ic_format_bold_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -48px;
+}
+
+.t3-icon-mdi_editor-ic_format_clear_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -48px;
+}
+
+.t3-icon-mdi_editor-ic_format_color_fill_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -72px;
+}
+
+.t3-icon-mdi_editor-ic_format_color_reset_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -72px;
+}
+
+.t3-icon-mdi_editor-ic_format_color_text_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -72px;
+}
+
+.t3-icon-mdi_editor-ic_format_indent_decrease_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -72px;
+}
+
+.t3-icon-mdi_editor-ic_format_indent_increase_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -72px;
+}
+
+.t3-icon-mdi_editor-ic_format_italic_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -72px;
+}
+
+.t3-icon-mdi_editor-ic_format_line_spacing_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -72px;
+}
+
+.t3-icon-mdi_editor-ic_format_list_bulleted_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -96px;
+}
+
+.t3-icon-mdi_editor-ic_format_list_numbered_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -96px;
+}
+
+.t3-icon-mdi_editor-ic_format_paint_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -96px;
+}
+
+.t3-icon-mdi_editor-ic_format_quote_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -96px;
+}
+
+.t3-icon-mdi_editor-ic_format_shapes_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -96px;
+}
+
+.t3-icon-mdi_editor-ic_format_size_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -96px;
+}
+
+.t3-icon-mdi_editor-ic_format_strikethrough_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -96px;
+}
+
+.t3-icon-mdi_editor-ic_format_textdirection_l_to_r_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -120px;
+}
+
+.t3-icon-mdi_editor-ic_format_textdirection_r_to_l_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -120px;
+}
+
+.t3-icon-mdi_editor-ic_format_underlined_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -120px;
+}
+
+.t3-icon-mdi_editor-ic_functions_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -120px;
+}
+
+.t3-icon-mdi_editor-ic_highlight_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -120px;
+}
+
+.t3-icon-mdi_editor-ic_insert_chart_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -120px;
+}
+
+.t3-icon-mdi_editor-ic_insert_comment_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -120px;
+}
+
+.t3-icon-mdi_editor-ic_insert_drive_file_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -144px;
+}
+
+.t3-icon-mdi_editor-ic_insert_emoticon_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -144px;
+}
+
+.t3-icon-mdi_editor-ic_insert_invitation_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -144px;
+}
+
+.t3-icon-mdi_editor-ic_insert_link_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -144px;
+}
+
+.t3-icon-mdi_editor-ic_insert_photo_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -144px;
+}
+
+.t3-icon-mdi_editor-ic_linear_scale_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -144px;
+}
+
+.t3-icon-mdi_editor-ic_merge_type_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -144px;
+}
+
+.t3-icon-mdi_editor-ic_mode_comment_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px 0;
+}
+
+.t3-icon-mdi_editor-ic_mode_edit_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -24px;
+}
+
+.t3-icon-mdi_editor-ic_money_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -48px;
+}
+
+.t3-icon-mdi_editor-ic_publish_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -72px;
+}
+
+.t3-icon-mdi_editor-ic_short_text_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -96px;
+}
+
+.t3-icon-mdi_editor-ic_space_bar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -120px;
+}
+
+.t3-icon-mdi_editor-ic_strikethrough_s_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -144px;
+}
+
+.t3-icon-mdi_editor-ic_text_fields_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -168px;
+}
+
+.t3-icon-mdi_editor-ic_vertical_align_bottom_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -168px;
+}
+
+.t3-icon-mdi_editor-ic_vertical_align_center_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -168px;
+}
+
+.t3-icon-mdi_editor-ic_vertical_align_top_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -168px;
+}
+
+.t3-icon-mdi_editor-ic_wrap_text_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -168px;
+}

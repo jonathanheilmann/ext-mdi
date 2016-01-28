@@ -1,0 +1,1259 @@
+.t3-icon-extensions-mdi_action {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/action/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_action-ic_3d_rotation_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_action-ic_accessibility_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px 0;
+}
+
+.t3-icon-mdi_action-ic_accessible_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px 0;
+}
+
+.t3-icon-mdi_action-ic_account_balance_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px 0;
+}
+
+.t3-icon-mdi_action-ic_account_balance_wallet_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px 0;
+}
+
+.t3-icon-mdi_action-ic_account_box_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px 0;
+}
+
+.t3-icon-mdi_action-ic_account_circle_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px 0;
+}
+
+.t3-icon-mdi_action-ic_add_shopping_cart_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px 0;
+}
+
+.t3-icon-mdi_action-ic_alarm_add_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px 0;
+}
+
+.t3-icon-mdi_action-ic_alarm_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px 0;
+}
+
+.t3-icon-mdi_action-ic_alarm_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px 0;
+}
+
+.t3-icon-mdi_action-ic_alarm_on_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px 0;
+}
+
+.t3-icon-mdi_action-ic_all_out_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px 0;
+}
+
+.t3-icon-mdi_action-ic_android_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px 0;
+}
+
+.t3-icon-mdi_action-ic_announcement_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -24px;
+}
+
+.t3-icon-mdi_action-ic_aspect_ratio_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -24px;
+}
+
+.t3-icon-mdi_action-ic_assessment_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -24px;
+}
+
+.t3-icon-mdi_action-ic_assignment_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -24px;
+}
+
+.t3-icon-mdi_action-ic_assignment_ind_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -24px;
+}
+
+.t3-icon-mdi_action-ic_assignment_late_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -24px;
+}
+
+.t3-icon-mdi_action-ic_assignment_return_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -24px;
+}
+
+.t3-icon-mdi_action-ic_assignment_returned_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -24px;
+}
+
+.t3-icon-mdi_action-ic_assignment_turned_in_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -24px;
+}
+
+.t3-icon-mdi_action-ic_autorenew_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -24px;
+}
+
+.t3-icon-mdi_action-ic_backup_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -24px;
+}
+
+.t3-icon-mdi_action-ic_book_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -24px;
+}
+
+.t3-icon-mdi_action-ic_bookmark_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -24px;
+}
+
+.t3-icon-mdi_action-ic_bookmark_border_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -24px;
+}
+
+.t3-icon-mdi_action-ic_bug_report_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -48px;
+}
+
+.t3-icon-mdi_action-ic_build_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -48px;
+}
+
+.t3-icon-mdi_action-ic_cached_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -48px;
+}
+
+.t3-icon-mdi_action-ic_camera_enhance_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -48px;
+}
+
+.t3-icon-mdi_action-ic_card_giftcard_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -48px;
+}
+
+.t3-icon-mdi_action-ic_card_membership_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -48px;
+}
+
+.t3-icon-mdi_action-ic_card_travel_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -48px;
+}
+
+.t3-icon-mdi_action-ic_change_history_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -48px;
+}
+
+.t3-icon-mdi_action-ic_check_circle_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -48px;
+}
+
+.t3-icon-mdi_action-ic_chrome_reader_mode_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -48px;
+}
+
+.t3-icon-mdi_action-ic_class_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -48px;
+}
+
+.t3-icon-mdi_action-ic_code_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -48px;
+}
+
+.t3-icon-mdi_action-ic_compare_arrows_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -48px;
+}
+
+.t3-icon-mdi_action-ic_copyright_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -48px;
+}
+
+.t3-icon-mdi_action-ic_credit_card_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -72px;
+}
+
+.t3-icon-mdi_action-ic_dashboard_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -72px;
+}
+
+.t3-icon-mdi_action-ic_date_range_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -72px;
+}
+
+.t3-icon-mdi_action-ic_delete_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -72px;
+}
+
+.t3-icon-mdi_action-ic_description_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -72px;
+}
+
+.t3-icon-mdi_action-ic_dns_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -72px;
+}
+
+.t3-icon-mdi_action-ic_done_all_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -72px;
+}
+
+.t3-icon-mdi_action-ic_done_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -72px;
+}
+
+.t3-icon-mdi_action-ic_donut_large_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -72px;
+}
+
+.t3-icon-mdi_action-ic_donut_small_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -72px;
+}
+
+.t3-icon-mdi_action-ic_eject_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -72px;
+}
+
+.t3-icon-mdi_action-ic_event_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -72px;
+}
+
+.t3-icon-mdi_action-ic_event_seat_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -72px;
+}
+
+.t3-icon-mdi_action-ic_exit_to_app_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -72px;
+}
+
+.t3-icon-mdi_action-ic_explore_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -96px;
+}
+
+.t3-icon-mdi_action-ic_extension_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -96px;
+}
+
+.t3-icon-mdi_action-ic_face_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -96px;
+}
+
+.t3-icon-mdi_action-ic_favorite_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -96px;
+}
+
+.t3-icon-mdi_action-ic_favorite_border_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -96px;
+}
+
+.t3-icon-mdi_action-ic_feedback_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -96px;
+}
+
+.t3-icon-mdi_action-ic_find_in_page_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -96px;
+}
+
+.t3-icon-mdi_action-ic_find_replace_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -96px;
+}
+
+.t3-icon-mdi_action-ic_fingerprint_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -96px;
+}
+
+.t3-icon-mdi_action-ic_flight_land_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -96px;
+}
+
+.t3-icon-mdi_action-ic_flight_takeoff_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -96px;
+}
+
+.t3-icon-mdi_action-ic_flip_to_back_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -96px;
+}
+
+.t3-icon-mdi_action-ic_flip_to_front_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -96px;
+}
+
+.t3-icon-mdi_action-ic_gavel_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -96px;
+}
+
+.t3-icon-mdi_action-ic_get_app_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -120px;
+}
+
+.t3-icon-mdi_action-ic_gif_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -120px;
+}
+
+.t3-icon-mdi_action-ic_grade_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -120px;
+}
+
+.t3-icon-mdi_action-ic_group_work_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -120px;
+}
+
+.t3-icon-mdi_action-ic_help_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -120px;
+}
+
+.t3-icon-mdi_action-ic_help_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -120px;
+}
+
+.t3-icon-mdi_action-ic_highlight_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -120px;
+}
+
+.t3-icon-mdi_action-ic_history_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -120px;
+}
+
+.t3-icon-mdi_action-ic_home_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -120px;
+}
+
+.t3-icon-mdi_action-ic_hourglass_empty_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -120px;
+}
+
+.t3-icon-mdi_action-ic_hourglass_full_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -120px;
+}
+
+.t3-icon-mdi_action-ic_http_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -120px;
+}
+
+.t3-icon-mdi_action-ic_https_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -120px;
+}
+
+.t3-icon-mdi_action-ic_important_devices_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -120px;
+}
+
+.t3-icon-mdi_action-ic_info_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -144px;
+}
+
+.t3-icon-mdi_action-ic_info_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -144px;
+}
+
+.t3-icon-mdi_action-ic_input_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -144px;
+}
+
+.t3-icon-mdi_action-ic_invert_colors_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -144px;
+}
+
+.t3-icon-mdi_action-ic_label_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -144px;
+}
+
+.t3-icon-mdi_action-ic_label_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -144px;
+}
+
+.t3-icon-mdi_action-ic_language_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -144px;
+}
+
+.t3-icon-mdi_action-ic_launch_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -144px;
+}
+
+.t3-icon-mdi_action-ic_lightbulb_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -144px;
+}
+
+.t3-icon-mdi_action-ic_line_style_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -144px;
+}
+
+.t3-icon-mdi_action-ic_line_weight_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -144px;
+}
+
+.t3-icon-mdi_action-ic_list_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -144px;
+}
+
+.t3-icon-mdi_action-ic_lock_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -144px;
+}
+
+.t3-icon-mdi_action-ic_lock_open_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -144px;
+}
+
+.t3-icon-mdi_action-ic_lock_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -168px;
+}
+
+.t3-icon-mdi_action-ic_loyalty_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -168px;
+}
+
+.t3-icon-mdi_action-ic_markunread_mailbox_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -168px;
+}
+
+.t3-icon-mdi_action-ic_motorcycle_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -168px;
+}
+
+.t3-icon-mdi_action-ic_note_add_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -168px;
+}
+
+.t3-icon-mdi_action-ic_offline_pin_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -168px;
+}
+
+.t3-icon-mdi_action-ic_opacity_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -168px;
+}
+
+.t3-icon-mdi_action-ic_open_in_browser_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -168px;
+}
+
+.t3-icon-mdi_action-ic_open_in_new_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -168px;
+}
+
+.t3-icon-mdi_action-ic_open_with_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -168px;
+}
+
+.t3-icon-mdi_action-ic_pageview_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -168px;
+}
+
+.t3-icon-mdi_action-ic_pan_tool_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -168px;
+}
+
+.t3-icon-mdi_action-ic_payment_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -168px;
+}
+
+.t3-icon-mdi_action-ic_perm_camera_mic_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -168px;
+}
+
+.t3-icon-mdi_action-ic_perm_contact_calendar_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -192px;
+}
+
+.t3-icon-mdi_action-ic_perm_data_setting_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -192px;
+}
+
+.t3-icon-mdi_action-ic_perm_device_information_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -192px;
+}
+
+.t3-icon-mdi_action-ic_perm_identity_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -192px;
+}
+
+.t3-icon-mdi_action-ic_perm_media_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -192px;
+}
+
+.t3-icon-mdi_action-ic_perm_phone_msg_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -192px;
+}
+
+.t3-icon-mdi_action-ic_perm_scan_wifi_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -192px;
+}
+
+.t3-icon-mdi_action-ic_pets_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -192px;
+}
+
+.t3-icon-mdi_action-ic_picture_in_picture_alt_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -192px;
+}
+
+.t3-icon-mdi_action-ic_picture_in_picture_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -192px;
+}
+
+.t3-icon-mdi_action-ic_play_for_work_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -192px;
+}
+
+.t3-icon-mdi_action-ic_polymer_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -192px;
+}
+
+.t3-icon-mdi_action-ic_power_settings_new_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -192px;
+}
+
+.t3-icon-mdi_action-ic_pregnant_woman_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -192px;
+}
+
+.t3-icon-mdi_action-ic_print_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -216px;
+}
+
+.t3-icon-mdi_action-ic_query_builder_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -216px;
+}
+
+.t3-icon-mdi_action-ic_question_answer_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -216px;
+}
+
+.t3-icon-mdi_action-ic_receipt_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -216px;
+}
+
+.t3-icon-mdi_action-ic_record_voice_over_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -216px;
+}
+
+.t3-icon-mdi_action-ic_redeem_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -216px;
+}
+
+.t3-icon-mdi_action-ic_reorder_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -216px;
+}
+
+.t3-icon-mdi_action-ic_report_problem_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -216px;
+}
+
+.t3-icon-mdi_action-ic_restore_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -216px;
+}
+
+.t3-icon-mdi_action-ic_room_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -216px;
+}
+
+.t3-icon-mdi_action-ic_rounded_corner_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -216px;
+}
+
+.t3-icon-mdi_action-ic_rowing_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -216px;
+}
+
+.t3-icon-mdi_action-ic_schedule_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -216px;
+}
+
+.t3-icon-mdi_action-ic_search_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -216px;
+}
+
+.t3-icon-mdi_action-ic_settings_applications_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_backup_restore_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_bluetooth_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_brightness_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_cell_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_ethernet_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_input_antenna_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_input_component_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_input_composite_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_input_hdmi_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_input_svideo_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_overscan_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_phone_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -240px;
+}
+
+.t3-icon-mdi_action-ic_settings_power_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -264px;
+}
+
+.t3-icon-mdi_action-ic_settings_remote_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -264px;
+}
+
+.t3-icon-mdi_action-ic_settings_voice_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -264px;
+}
+
+.t3-icon-mdi_action-ic_shop_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -264px;
+}
+
+.t3-icon-mdi_action-ic_shop_two_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -264px;
+}
+
+.t3-icon-mdi_action-ic_shopping_basket_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -264px;
+}
+
+.t3-icon-mdi_action-ic_shopping_cart_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -264px;
+}
+
+.t3-icon-mdi_action-ic_speaker_notes_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -264px;
+}
+
+.t3-icon-mdi_action-ic_spellcheck_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -264px;
+}
+
+.t3-icon-mdi_action-ic_stars_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -264px;
+}
+
+.t3-icon-mdi_action-ic_store_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -264px;
+}
+
+.t3-icon-mdi_action-ic_subject_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -264px;
+}
+
+.t3-icon-mdi_action-ic_supervisor_account_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -264px;
+}
+
+.t3-icon-mdi_action-ic_swap_horiz_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -264px;
+}
+
+.t3-icon-mdi_action-ic_swap_vert_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -288px;
+}
+
+.t3-icon-mdi_action-ic_swap_vertical_circle_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -288px;
+}
+
+.t3-icon-mdi_action-ic_system_update_alt_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -288px;
+}
+
+.t3-icon-mdi_action-ic_tab_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -288px;
+}
+
+.t3-icon-mdi_action-ic_tab_unselected_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -288px;
+}
+
+.t3-icon-mdi_action-ic_theaters_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -288px;
+}
+
+.t3-icon-mdi_action-ic_thumb_down_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -288px;
+}
+
+.t3-icon-mdi_action-ic_thumb_up_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -288px;
+}
+
+.t3-icon-mdi_action-ic_thumbs_up_down_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -288px;
+}
+
+.t3-icon-mdi_action-ic_timeline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -288px;
+}
+
+.t3-icon-mdi_action-ic_toc_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -288px;
+}
+
+.t3-icon-mdi_action-ic_today_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -288px;
+}
+
+.t3-icon-mdi_action-ic_toll_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -288px;
+}
+
+.t3-icon-mdi_action-ic_touch_app_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -288px;
+}
+
+.t3-icon-mdi_action-ic_track_changes_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -312px;
+}
+
+.t3-icon-mdi_action-ic_translate_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -312px;
+}
+
+.t3-icon-mdi_action-ic_trending_down_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -48px -312px;
+}
+
+.t3-icon-mdi_action-ic_trending_flat_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -72px -312px;
+}
+
+.t3-icon-mdi_action-ic_trending_up_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -96px -312px;
+}
+
+.t3-icon-mdi_action-ic_turned_in_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -120px -312px;
+}
+
+.t3-icon-mdi_action-ic_turned_in_not_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -144px -312px;
+}
+
+.t3-icon-mdi_action-ic_update_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -168px -312px;
+}
+
+.t3-icon-mdi_action-ic_verified_user_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -192px -312px;
+}
+
+.t3-icon-mdi_action-ic_view_agenda_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -216px -312px;
+}
+
+.t3-icon-mdi_action-ic_view_array_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -240px -312px;
+}
+
+.t3-icon-mdi_action-ic_view_carousel_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -264px -312px;
+}
+
+.t3-icon-mdi_action-ic_view_column_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -288px -312px;
+}
+
+.t3-icon-mdi_action-ic_view_day_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -312px -312px;
+}
+
+.t3-icon-mdi_action-ic_view_headline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px 0;
+}
+
+.t3-icon-mdi_action-ic_view_list_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -24px;
+}
+
+.t3-icon-mdi_action-ic_view_module_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -48px;
+}
+
+.t3-icon-mdi_action-ic_view_quilt_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -72px;
+}
+
+.t3-icon-mdi_action-ic_view_stream_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -96px;
+}
+
+.t3-icon-mdi_action-ic_view_week_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -120px;
+}
+
+.t3-icon-mdi_action-ic_visibility_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -144px;
+}
+
+.t3-icon-mdi_action-ic_visibility_off_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -168px;
+}
+
+.t3-icon-mdi_action-ic_watch_later_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -192px;
+}
+
+.t3-icon-mdi_action-ic_work_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -216px;
+}
+
+.t3-icon-mdi_action-ic_youtube_searched_for_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -240px;
+}
+
+.t3-icon-mdi_action-ic_zoom_in_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -264px;
+}
+
+.t3-icon-mdi_action-ic_zoom_out_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -336px -288px;
+}

@@ -1,0 +1,29 @@
+.t3-icon-extensions-mdi_alert {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/alert/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_alert-ic_add_alert_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_alert-ic_error_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px 0;
+}
+
+.t3-icon-mdi_alert-ic_error_outline_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: 0 -24px;
+}
+
+.t3-icon-mdi_alert-ic_warning_black_24dp {
+    width: 24px;
+    height: 24px;
+    background-position: -24px -24px;
+}

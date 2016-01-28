@@ -1,0 +1,53 @@
+.t3-icon-extensions-mdi_toggle16dp {
+    background-image: url(../../typo3conf/ext/mdi/Resources/Public/Sprites/toggle16dp/spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_toggle16dp-ic_check_box_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_toggle16dp-ic_check_box_outline_blank_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px 0;
+}
+
+.t3-icon-mdi_toggle16dp-ic_indeterminate_check_box_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -16px;
+}
+
+.t3-icon-mdi_toggle16dp-ic_radio_button_checked_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -16px;
+}
+
+.t3-icon-mdi_toggle16dp-ic_radio_button_unchecked_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -32px 0;
+}
+
+.t3-icon-mdi_toggle16dp-ic_star_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -16px;
+}
+
+.t3-icon-mdi_toggle16dp-ic_star_border_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -32px;
+}
+
+.t3-icon-mdi_toggle16dp-ic_star_half_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -32px;
+}

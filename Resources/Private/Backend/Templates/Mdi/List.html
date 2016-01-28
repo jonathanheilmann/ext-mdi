@@ -1,0 +1,37 @@
+<f:layout name="Default" />
+
+<f:section name="content">
+    <a name="myTop"></a>
+    <h1>{icons->f:count()} Material design icon-sets</h1>
+
+    <p>
+        <f:for each="{icons}" key="iconSet" as="iconsOfSet">
+            <a href="#{iconSet}">{iconSet}</a><br/>
+        </f:for>
+    </p>
+
+    <f:for each="{icons}" key="iconSet" as="iconsOfSet">
+        <a name="{iconSet}"></a>
+        <h2>{iconSet}: {iconsOfSet->f:count()} icons</h2>
+        <table class="t3-table">
+            <tbody>
+                <f:for each="{iconsOfSet}" as="icon" iteration="iterator">
+                    <f:if condition="{iterator.isOdd}">
+                        <tr>
+                    </f:if>
+                    <td style="width: 50%;"><f:be.buttons.icon icon="{icon}" />{icon}</td>
+                    <f:if condition="{iterator.isLast}">
+                        <f:if condition="{iterator.isOdd}">
+                            <td style="width: 50%;"></td></tr>
+                        </f:if>
+                    </f:if>
+                    <f:if condition="{iterator.isEven}">
+                        </tr>
+                    </f:if>
+                </f:for>
+            </tbody>
+        </table>
+        <a href="#myTop" style="width: 100%; float:left; clear: both; text-align: right;"><f:be.buttons.icon icon="extensions-mdi_navigation-ic_arrow_upward_black_24dp" title="top" /></a>
+    </f:for>
+
+</f:section>

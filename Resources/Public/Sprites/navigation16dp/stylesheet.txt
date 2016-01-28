@@ -1,0 +1,155 @@
+.t3-icon-mdi_navigation16dp {
+    background-image: url(spritesheet.png);
+    background-repeat: no-repeat;
+    display: block;
+}
+
+.t3-icon-mdi_navigation16dp-ic_apps_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 0;
+}
+
+.t3-icon-mdi_navigation16dp-ic_arrow_back_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px 0;
+}
+
+.t3-icon-mdi_navigation16dp-ic_arrow_downward_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -32px 0;
+}
+
+.t3-icon-mdi_navigation16dp-ic_arrow_drop_down_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -48px 0;
+}
+
+.t3-icon-mdi_navigation16dp-ic_arrow_drop_down_circle_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -64px 0;
+}
+
+.t3-icon-mdi_navigation16dp-ic_arrow_drop_up_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -16px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_arrow_forward_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -16px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_arrow_upward_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -16px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_cancel_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -16px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_check_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -16px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_chevron_left_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -32px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_chevron_right_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -32px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_close_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -32px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_expand_less_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -32px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_expand_more_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -32px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_fullscreen_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -48px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_fullscreen_exit_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -48px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_menu_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -48px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_more_horiz_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -48px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_more_vert_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -48px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_refresh_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: 0 -64px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_subdirectory_arrow_left_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -16px -64px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_subdirectory_arrow_right_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -32px -64px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_unfold_less_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -48px -64px;
+}
+
+.t3-icon-mdi_navigation16dp-ic_unfold_more_black_16dp {
+    width: 16px;
+    height: 16px;
+    background-position: -64px -64px;
+}
