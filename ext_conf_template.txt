@@ -1,0 +1,2 @@
+# cat=basic/enable; type=boolean; label= Show BE-module: Enable to show backend module (reload page or login & logout to activated changes)
+showBackendModule = 0

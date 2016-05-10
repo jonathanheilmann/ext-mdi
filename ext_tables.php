@@ -8,12 +8,16 @@ if (!defined('TYPO3_MODE'))
 		'Material design icons'
 );
 
-if (TYPO3_MODE === 'BE') {
-
-	/**
-	 * Registers a Backend Module
-	 */
-	\TYPO3\CMS\Extbase\Utility\ExtensionUtility::registerModule(
+if (TYPO3_MODE === 'BE')
+{
+	$_extConfig = unserialize($GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY]);
+	
+	if ($_extConfig['showBackendModule'])
+	{
+		/**
+		 * Registers a Backend Module
+		 */
+		\TYPO3\CMS\Extbase\Utility\ExtensionUtility::registerModule(
 			'Heilmann.' . $_EXTKEY,
 			'tools',     // Make module a submodule of 'user'
 			'mdi',    // Submodule key
@@ -26,7 +30,9 @@ if (TYPO3_MODE === 'BE') {
 				'icon'   => 'EXT:mdi/Resources/Public/Icons/action/ic_android_black_18dp.png',
 				'labels' => 'LLL:EXT:' . $_EXTKEY . '/Resources/Private/Language/locallang_mdi.xlf',
 			)
-	);
+		);
+	}
+
 }
 
 // Add icons (24dp)
