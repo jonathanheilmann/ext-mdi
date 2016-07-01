@@ -8,12 +8,16 @@ if (!defined('TYPO3_MODE'))
 		'Material design icons'
 );
 
+$_extConfig = unserialize($GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY]);
+
 if (TYPO3_MODE === 'BE')
 {
-	$_extConfig = unserialize($GLOBALS['TYPO3_CONF_VARS']['EXT']['extConf'][$_EXTKEY]);
-	
+
 	if ($_extConfig['showBackendModule'])
 	{
+        // Fetch module icon depending on TYPO3 CMS branch
+        $icon = version_compare(TYPO3_branch, '7.6', '>=') ? 'EXT:mdi/Resources/Public/MaterialDesignIcons/svg/android.svg' : 'EXT:mdi/Resources/Public/Icons/action/ic_android_black_18dp.png';
+
 		/**
 		 * Registers a Backend Module
 		 */
@@ -27,7 +31,7 @@ if (TYPO3_MODE === 'BE')
 			),
 			array(
 				'access' => 'user,group',
-				'icon'   => 'EXT:mdi/Resources/Public/Icons/action/ic_android_black_18dp.png',
+				'icon'   => $icon,
 				'labels' => 'LLL:EXT:' . $_EXTKEY . '/Resources/Private/Language/locallang_mdi.xlf',
 			)
 		);
@@ -44,12 +48,71 @@ foreach ($iconSets as $iconSet)
 	preg_match_all('/(\.?'.addcslashes('t3-icon-mdi_' . $iconSet, '-').'.*?)\s?\{/', $cssFileContents, $matches);
 	$classList = $matches[1];
 	$icons = array();
-	foreach ($classList as $class) {
+	foreach ($classList as $class)
 		$icons[] = str_replace('.t3-icon-', 'extensions-', $class);
-	}
 
 	\TYPO3\CMS\Backend\Sprite\SpriteManager::addIconSprite(
 		$icons,
 		\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::siteRelPath($_EXTKEY) . $cssPath
 	);
+}
+
+// Register icons (Material Design Icons)
+if (version_compare(TYPO3_branch, '7.6') >= 0)
+{
+
+    /** @var \TYPO3\CMS\Core\Imaging\IconRegistry $iconRegistry */
+    $iconRegistry = \TYPO3\CMS\Core\Utility\GeneralUtility::makeInstance(\TYPO3\CMS\Core\Imaging\IconRegistry::class);
+
+    /**
+     * Register SVG icons
+     */
+    $svgFolderPath = \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extPath($_EXTKEY) . 'Resources/Public/MaterialDesignIcons/svg/';
+    $svgIcons = \TYPO3\CMS\Core\Utility\GeneralUtility::getFilesInDir($svgFolderPath, 'svg');
+
+    foreach ($svgIcons as $svgIcon)
+    {
+        $iconName = str_replace('.svg', '', $svgIcon);
+        $iconRegistry->registerIcon(
+            'tx-mdi-'. $iconName,
+            \TYPO3\CMS\Core\Imaging\IconProvider\SvgIconProvider::class,
+            ['source' => $svgFolderPath . $svgIcon]
+        );
+    }
+
+    /**
+     * Register "Material Design Icons" font
+     */
+    if ($_extConfig['loadFont'])
+    {
+        $cssFileContents = file_get_contents(\TYPO3\CMS\Core\Utility\ExtensionManagementUtility::extPath($_EXTKEY) . 'Resources/Public/MaterialDesignIcons/css/materialdesignicons.css');
+        preg_match_all('/(\.?'.addcslashes('mdi-', '-').'.*?)\s?\{/', $cssFileContents, $matches);
+        $classList = $matches[1];
+
+        foreach ($classList as $class)
+        {
+            if (strpos($class, ':before'))
+            {
+                $iconName = str_replace(array('.mdi-', ':before'), '', $class);
+                \TYPO3\CMS\Extbase\Utility\DebuggerUtility::var_dump($iconName);
+
+                $iconRegistry->registerIcon(
+                    'tx-mdi-' . $iconName,
+                    \Heilmann\Mdi\Imaging\IconProvider\MaterialDesignIconProvider::class,
+                    [
+                        'name'     => $iconName,
+                        'spinning' => false
+                    ]
+                );
+            }
+        }
+
+        $GLOBALS['TBE_STYLES']['skins'][$_EXTKEY] = array (
+            'name' => $_EXTKEY,
+            'stylesheetDirectories' => array(
+                'css' => 'EXT:' . $_EXTKEY . '/Resources/Public/MaterialDesignIcons/css/'
+            )
+        );
+    }
+    
 }

@@ -1,2 +1,5 @@
 # cat=basic/enable; type=boolean; label= Show BE-module: Enable to show backend module (reload page or login & logout to activated changes)
 showBackendModule = 0
+
+# cat=basic/enable; type=boolean; label= Load font: Enable to load "Material Design Incons" font
+loadFont = 0

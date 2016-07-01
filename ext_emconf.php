@@ -12,7 +12,7 @@
 
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'Material design icons',
-	'description' => 'Provides the Material design icons in Sprite API',
+	'description' => 'Provides the Material Design Icons in Sprite API and new IconFactory (7.6)',
 	'category' => 'misc',
 	'author' => 'Jonathan Heilmann',
 	'author_email' => 'mail@jonathan-heilmann.de',
@@ -20,11 +20,11 @@ $EM_CONF[$_EXTKEY] = array(
 	'internal' => '',
 	'uploadfolder' => '0',
 	'createDirs' => '',
-	'clearCacheOnLoad' => 0,
-	'version' => '2.1.1',
+	'clearCacheOnLoad' => 1,
+	'version' => '2.1.3',
 	'constraints' => array(
 		'depends' => array(
-			'typo3' => '6.2.0-6.2.99',
+			'typo3' => '6.2.0-7.6.99',
 		),
 		'conflicts' => array(
 		),
